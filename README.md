@@ -1,20 +1,32 @@
-# 👋 Hey there!  
+# 👋 Hey there!
 
-I'm a student passionate about **sports, coding, and problem-solving**. I love tackling projects that combine **data and sports analytics**, especially in the **Premier League and La Liga**.  
+I'm a student passionate about **sports, coding, and solving meaningful problems**. I thrive on building projects that merge **data, design, and storytelling**—especially in the world of **Premier League** and **La Liga** analytics.
 
-## 🔹 What I'm Working On  
-- Improving my **math skills** to strengthen my coding game.  
-- Exploring **machine learning, data analysis, and automation**—always looking for fun, skill-building projects.  
-- Web Development
+---
 
-## ⚽ More About Me  
-- Big fan of **F1, basketball, NFL, and Manchester City** (CTID 💙).  
-- Passionate about **public speaking, societal issues, and engaging with people**.   
+## 🔹 What I'm Working On
 
-## 🚀 Looking for Opportunities  
-I'm on the lookout for **internships or externships** to level up my skills. Let’s connect and build something awesome!  
+- Developing **Histo**, a sleek ELO tracker that turns historical football data into visual insights using **Streamlit**, **Pandas**, and **custom UI design**.
+- Deepening my understanding of **data science, machine learning**, and **sports statistics**.
+- Improving my **math and algorithmic skills** to support stronger modeling and back-end logic.
+- Exploring **web development**, especially in the context of interactive sports tools and dashboards.
 
-📫 **Let's chat!** Feel free to reach out.  
+---
+
+## ⚽ More About Me
+
+- Massive fan of **F1, basketball, NFL**, and of course, **Manchester City** (CTID 💙).
+- Enthusiastic about **storytelling through data**, creating clean, engaging **user experiences**, and sharing insights in a digestible way.
+- Love **public speaking**, discussing **societal issues**, and collaborating with others to bring ideas to life.
+
+---
+
+## 🚀 Looking for Opportunities
+
+I'm actively looking for **internships, externships, or collaborations** in **data analytics, UI/UX, or web-based sports projects**. If you're building something cool—let’s connect!
+
+📫 **Let’s chat!** Reach out via email or GitHub.  
+ 
 
 
 # 💻 Tech Stack:
